@@ -1,0 +1,5 @@
+{
+  "name": "Vida de Capivara: Simulador Zen",
+  "description": "Um simulador 2D relaxante onde você joga como uma capivara. Nade, coma laranjas e medite para receber sabedoria gerada por IA.",
+  "requestFramePermissions": []
+}
